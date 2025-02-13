@@ -27,27 +27,6 @@ Vite
 - Interactive Component Libraries
 - Design System Implementations
 
-## 🔍 Project Structure
-
-```
-frontend-projects/
-│
-├── event-management/
-│   ├── frontend/
-│   └── backend/
-│
-├── portfolio/
-│   ├── src/
-│   └── components/
-│
-├── task-manager/
-│   ├── react-app/
-│   └── server/
-│
-└── e-commerce-dashboard/
-    ├── client/
-    └── admin-panel/
-```
 
 ## 🚀 Quick Start
 
@@ -93,9 +72,7 @@ Interested in contributing or providing feedback?
 This project is open-sourced under the MIT License.
 
 ## 📞 Connect
-[LinkedIn
-[Portfolio
-
+Arman Bhatia
 ---
 
 **Happy Coding! 👨‍💻✨**
